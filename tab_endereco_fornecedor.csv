@@ -1,0 +1,95 @@
+﻿cod_endereco;rua_endereco;num_endereco;bairro_endereco;cep_endereco;cidade_endereco;estado_endereco;pais_endereco;cod_fornecedor
+1;Avenida da Integracao;927;Vila Eduardo;12237-540;São José dos Campos;SP;Brasil;100300
+2;Av Brasil;779;Jardim America;01.431-000;Sao Paulo;SP;Brasil;100301
+3;R Ponte Alta;463;Sagrado Coracao de Jesus;35.574-396;Formiga;MG;Brasil;100302
+4;ST SHIS QI 11 BLOCO I;SN;Setor de Habitacoes;71.625-580;Brasilia;DF;Brasil;100303
+5;AV SAO LUIS REI DE FRANCA;325;;95054;Santa Clara;CA;EUA;100304
+6;R Doutor Moncorvo Filho;259;;33312-6645;Fort Lauderdale;FL;EUA;100305
+7;R Juiz de Fora;1470;Santo Agostinho;30.180-061;Belo Horizonte;MG;Brasil;100306
+8;Av Sao Joao;2375;;91706;Irwindale;CA;EUA;100307
+9;Q Quadra 1 Conjunto B;LT 16;;91311;Chatsworth;CA;EUA;100308
+10;R da Ametista;4380;;60191;Wood Dale;IL;EUA;100309
+11;Av Tiradentes;1402;;33765;Clearwater;FL;EUA;100310
+12;R Henrique Cabral;821;;27522;Creedmoor;NC;EUA;100311
+13;R Joaquim Costa;270;;7727;Wall Township;NJ;EUA;100312
+14;Av Ernani do Amaral Peixoto;36;Centro;24.020-074;Niteroi;RJ;Brasil;100313
+15;TV Joao Schaffer Junior;51;;44306-4186;Akron;OH;EUA;100314
+16;R Antonio Mariano de Souza;775;;33142;Miami;FL;EUA;100315
+17;R Vigilio Dalben;20;;66062;Olathe;KS;EUA;100316
+18;Q Shc Norte, CL Quadra 306;10;;85034;Phoenix;AZ;EUA;100317
+19;Av Presidente Kennedy;68;;85043;Phoenix;AZ;EUA;100318
+20;Av Amaral Souza;39;;49125;Tiercé;;França;100319
+21;Al Asia Polo Empresarial;201;;33312;Fort Lauderdale;FL;EUA;100320
+22;St Sibs Quadra 02 Conjunto e Lote;1;;87110;Albuquerque;NM;EUA;100321
+23;R Ana Neri;460;;14052;East Aurora;NY;EUA;100322
+24;R Zelma Antunes Pereira;71;;85027;Phoenix;AZ;EUA;100323
+25;R Marechal Castelo Branco;2342;;98052;Redmond;WA;EUA;100324
+26;St CN Quadra 01 Bloco C ;85;;14086;Lancaster;NY;EUA;100325
+27;R Estacio de Sa;10;;34243;Sarasota;FL;EUA;100326
+28;Q CRS 502 Bloco C;37;;33178;Miami;FL;EUA;100327
+29;St Sofn Quadra 4 conjunto D;SN;;84034;Landshut;BY;Alemanha;100328
+30;R Estacio Kennedy;40;;33414;Wellington;FL;EUA;100329
+31;Av Yojiro Takaoka;4384;;23560;Lübeck;SH;Alemanha;100330
+32;St Srtvs;SN;;27410;Greensboro;CN;EUA;100331
+33;Av Orellana;38;;37201;Nashville;TN;EUA;100332
+34;Av. Maria Carvalho;50;;92647;Huntington Beach;CA;EUA;100333
+35;Av Dr. Francisco;90;;H4M 2S9;Montreal;Quebec;Canadá;100334
+36;R Ana de Oliveira;68;;F-92353;Le Plessis-Robinson;;França;100335
+37;R Sao Jose de Souza;18;;94080;South San Francisco;CA;EUA;100336
+38;Tr Sia Trecho 17 rua 14 Lote;170;;85286;Chandler;AZ;EUA;100337
+39;St Shn, Quadra 02 bloco F;87;;84737;Hurricane;UT;EUA;100338
+40;Q Sepn 504 Bloco A;SN;;54157;Peshtigo;WI;EUA;100339
+41;Q Scs QD 03 BL A;260;;11716;Bohemia;NY;EUA;100340
+42;Moislinger Allee;30;Petrolina;56.328-030;Pretrolina;PR;Brasil;100341
+43;Av Francisco Ferreira da Cruz;4656;;B24 9HL;Birmingham;;Reino Unido;100342
+44;R Alm Noronha;698;;33142;Miami;FL;EUA;100343
+45;R Americas;590;Centro;04.707-200;Sao Paulo;SP;Brasil;100344
+46;Av Brigadeiro Faria Lima;2170;;32780;Titusville;FL;EUA;100345
+47;Av Clodoaldo Antonio Althoff;SN;;54157;Peshtigo;WI;EUA;100346
+48;R Andrea Paulinetti;406;;63123;St. Louis;MO;EUA;100347
+49;Av Joao Gualberto;780;;63123;St. Louis;MO;EUA;100348
+50;Est Dos Tres Rios;1097;;27896;Wilson;CN;EUA;100349
+51;R Zapotillo;38;;66062;Olathe;KS;EUA;100350
+52;Av Ruben BEnto Alves;8078;;34748;Leesburg;FL;EUA;100351
+53;Av Brigadeiro Faria Lima;2170;;92186-5757;San Diego;CA;EUA;100352
+54;Tabor Road;115;;28202;Charlotte;CN;EUA;100353
+55;R Cecilia Roizen;SN;;33166;Miami;FL;EUA;100354
+56;R Padre Marinho;70;;SS2 6UN;Southend-on-Sea;;Reino Unido;100355
+57;Av Nilo Pecanha;41;;25.010-142;Duque de Caixas;RJ;Brasil;100356
+58;R Marco Polo;289;;91006;Arcadia;CA;EUA;100357
+59;R da Reitoria;374;;91006;Arcadia;CA;EUA;100358
+60;AV Dr Cardoso de Melo;1855;;27896-9643;Wilson;CN;EUA;100359
+61;R Jose Sofia;353;;7605;Leonia;NJ;EUA;100360
+62;R Uniao da Vitoria;244;;GU15 3DU;Camberley;;Reino Unido;100361
+63;R Otto Behling;640;;49512;Grand Rapids;MI;EUA;100362
+64;R Samuel da Rocha Coelho;329;;49512;Grand Rapids;MI;EUA;100363
+65;R Prefeito Manoel Evaldo Mulller;1338;;91761;Ontario;CA;EUA;100364
+66;R Maria Tereza Dias da Silva;270;;34232;Sarasota;FL;EUA;100365
+67;R Heirich Sell;156;;76712;Woodway;TX;EUA;100366
+68;Lrg Sao Francisco de Paula;42;;44306-4186;Akron;OH;EUA;100367
+69;R Paula Bueno;3400;;44306-4186;Akron;OH;EUA;100368
+70;R Estados Unidos;1300;;93063;Simi Valley;CA;EUA;100369
+71;Rod Arnaldo Julio Mauerberg;4000;;29615;Greenville;SC;EUA;100370
+72;R Castro;29;;200335;Xangai;;China;100371
+73;R Diogo Farias;181;;4008;Pinkenba;QLD;Austrália;100372
+74;R Antorio Gomes Ferreira;39;;67226;Wichita;KS;EUA;100373
+75;R T;1039;;60050;McHenry;IL;EUA;100374
+76;Rod Br 470 Ingo Hering;5348;;60714-3406;Niles;IL;EUA;100375
+77;R Templarios;216;;19034;Fort Washington;PA;EUA;100376
+78;R Vergueiro;3558;;79115;Freiburg im Breisgau;;Alemanha;100377
+79;Av Henry Ford;312;;92660;Newport Beach;CA;EUA;100378
+80;Av Henry Ford;268;;44124;Cleveland;OH;EUA;100379
+81;R Esterina Pereira;485;;CH65 1AX;Ellesmere Por;;Reino Unido;100380
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
