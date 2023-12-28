@@ -1,4 +1,4 @@
-﻿cod_endereco;rua_endereco;num_endereco;bairro_endereco;cep_endereco;cidade_endereco;estado_endereco;pais_endereco;cod_cliente
+﻿id_endereco_cliente;rua_cliente;num_cliente;bairro_cliente;cep_cliente;cidade_cliente;estado_cliente;pais_cliente;cliente_id_cliente
 1;Navaid Road Suite;340;Bridgeton;63044;St. Louis;Missouri;Estados Unidos;1746
 2;44th St;410;Arcadia;85008;Phoenix;Arizona;Estados Unidos;1596
 3;Calzada Zavaleta Local;2503;Santa Cruz Buena Vista;72150;Puebla;Puebla;México;3408
