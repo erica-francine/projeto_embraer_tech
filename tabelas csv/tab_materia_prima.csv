@@ -1,0 +1,1184 @@
+﻿cod_materia_prima;descricao_materia_prima
+579;Amortecedor
+581;Atuador de Porta
+583;Atuador Hidráulico
+595;Relé de Proteção
+599;Válvula de Alívio
+600;Válvula de Corte
+601;Válvula de Sangria
+602;Válvula Unidirecional 
+603;Válvula Unidirecional
+606;Válvula Restritora
+609;Válvula Solenoide
+2790;Acumulador
+2792;Válvula de Alívio 
+3425;Válvula Solenóide 4 vias, 2 pos
+3426;Haste Travamento Principal - Conjunto
+3486;Perna de Força - Conjunto
+4336;Conjunto Flex Aeromédico
+4549;Kit Universal de Imageamento para Helicópteros 
+4565;Conjunto Maca/Suporte/Sistemas tipo Transporte Inter-Hospitalar
+4569;Conjunto Maca/Suporte/Sistema tipo transporte hospitalar
+633;Mangueira - TSO C75
+2829;Mangueira - TSO C53a
+21;Aircraft Tire 15x6.0-6 6PR
+23;Aircraft Tire 17.5x6.25-6 10 PR
+24;Aircraft Tire 17.5x6.25-6 8 PR
+28;Aircraft Tire 25.75x6.75-14 14 PR
+30;Aircraft Tire 31x9.75-14 12 PR
+31;Aircraft Tire 32x8.8
+32;Aircraft Tire 6.00-6 4PR
+33;Aircraft Tire 6.00-6 4PR TT
+34;Aircraft Tire 6.00-6 6PR
+35;Aircraft Tire 6.00-6 6PR TT
+36;Aircraft Tire 6.00-6 8PR Tl
+37;Aircraft Tire 6.00-6 8PR TT
+38;Aircraft Tire 6.00x6 8 PR
+39;Aircraft Tire 7.00-6 6 PR
+40;Aircraft Tire 7.00-6 6PR TT
+41;Aircraft Tire 7.00-6 8PR TT
+42;Aircraft Tire 8.00-6 6 PR
+43;Aircraft Tire 8.00-6 8 PR
+44;Aircraft Tire 8.90-12.50 6 PR
+45;Aircraft Tire H.29x9.0-15 16PR
+2796;Pneu com Câmara Tamanho 5.00-5 10PR 120MPH
+2797;Pneu com Câmara Tamanho 5.00-5 6PR 120MPH
+2798;Pneu com Câmara Tamanho 5.00-5 4PR 120MPH
+3248;Pneu Convencional sem Câmara
+3303;Pneu sem Camara 15 x 6.0-6 10 PR
+4489;E-04 ELT - Emergency Locator Transmitter - 406/121.5 MHz ELT Type AF
+4490;E-04 ELT - Emergency Locator Transmitter - Lithium Battery Pack
+4491;E-04 ELT - Emergency Locator Transmitter - Whip Antenna
+4743;Emergency Locator Transmitter (ELT) ELT 345 
+1411;Life Preserver
+4531;SINGLE LH SIDE FACING DIVAN
+4532;SINGLE RH SIDE FACING DIVAN
+4533;SINGLE FWD / AFT FACING SEAT
+4535;DOUBLE FWD / AFT FACING SEAT
+4094;GPS Antenna
+4096;GPS/XM Antenna
+2042;Radio Magnetic Indicator
+4698;Pitot Static Probe
+2092;Seat Belt
+2740;36 Person Liferaft
+4178;10 Person Liferaft
+1754;Protective Breathing Equipment
+1405;Wheel and Brake Assembly
+1406;Nose Wheel Assembly
+2108;Nose Wheel
+2109;Main Landing Gear Wheel
+2110;Carbon Brake Assembly
+2623;Wheel
+2624;Brake Assembly
+2094;Single Swivel Seat
+1801;Weather Radar System
+1802;HF System
+1803;Integrated Radio Package Rack and Frontal Panel
+1804;Marker Receiver
+1805;VOR Composite Converter
+1806;Compass System
+1807;Slaving Accessory
+1808;Directional Gyro
+1809;HSI
+1810;Flux Valve
+1811;DME
+1812;DME Indicator
+1814;Radar Indicator
+1815;Radar Sensor
+1816;Flat Plate Antenna
+1817;Weather Radar
+1818;EFS/VP Radar Rcvr/Xcvr
+1820;ADF
+1821;CDI Indicator
+1822;Radar Altimeter
+1824;RMI Indicator
+1825;GPS Receiver
+1827;VHF Tranceiver
+1828;Control Head
+1829;Nav Receiver
+1831;Digital ADF
+1834;RMI
+1837;Audio Control Panel
+1838;Transponder Mode S
+1841;EFIS/VP Indicator
+1842;Slaving Controller
+1845;Electronic HSI
+1846;Electronic ADI or HSI
+1847;Symbol Generator
+1848;GPS Receiver/Comm Tranceiver
+1850;ATC Transponder
+1854;COMM Trans/NAV Receiver
+1858;VHF/NAV/GS/COMM
+1878;VHF/NAV/GS/COMM/VOR/LOC
+1890;NAV Indicator
+1894;VOR/LOC/GS Indicator
+1896;VHF COMM Transceiver
+1910;Antenna/Receiver/Transmitter Unit
+1911;Configuration Module
+1912;Antenna
+1916;Microstrip Antenna
+1918;RDS 81 Indicator
+1920;RDS 82 Indicator
+1928;FMS
+1929;CMU
+1930;Panel-Mounted GPS Black 14V/28V
+1931;Panel-Mounted GPS Black 5V
+1932;Panel-Mounted GPS Gray 14V/28V
+1933;Panel-Mounted GPS Gray 5V
+1934;Upgraded Panel-Mounted GPS Black 14V/28V
+1935;Upgraded Panel-Mounted GPS Black 5V
+1936;Upgraded Panel-Mounted GPS Gray 14V/28V
+1937;Upgraded Panel-Mounted GPS Gray 5V
+1938;Patch Antenna
+1955;RDS 84 Indicator
+1956;RDS 86 Indicator
+1957;Radar Graphics Unit
+1959;Radar Graphics Interface Unit
+1960;TCAS Processor
+1961;Directional Antenna
+1963;TCAS I Control Panel
+1964;Mode S Transponder/TCAS Control Panel
+1965;Traffic Advisory Display
+1966;Traffic Advisory/Resolution Advisory/Vertical Speed Indicator
+1967;TCAS Graphics Processor
+1974;TCAS/Mode S transponder Control Unit
+1977;Mark V Warning Computer
+1978;MK V Ground Proximity Warning Computer
+1980;MK VI Warning Computer
+1981;Nav FM Filter
+1982;Handheld GPS/Comm
+1984;VOR/Localizer/Glideslop/ VHF
+1985;VOR/Localizer/Glideslop/VHF
+1988;CDU
+1989;KY 197A
+1990;KRA 405B
+1991;HF Control Unit, Black 5V
+1992;HF Control Unit, Black 28V
+1993;HF Control Unit, Gray 5V
+1994;HF Control Unit, Gray 28V
+1995;HF Control Unit, Blak 5V SL
+1997;Control Panel 
+1998;Control Panel
+2005;MK V Enhanced Ground Proximity Warning Computer
+2006;Marker Beacon w/o Test Tone
+2007;HF Bus Adapter
+2009;DME Computer
+2014;KLN 900
+2018;Radar Altimeter Indicator
+2019;Navigation ILS Receiver
+2020;VHF Transceiver
+2043;Auxiliary Power Unit
+1764;Restraint System Assembly
+1767;Lap Belt Assembly
+1770;Lap Belt Extention Assembly
+2095;Safety Belt
+2370;Emergency Locator Transmitter
+4704;Emergency Locator Transmitter (ELT)
+4179;EFD1000 (PFD)
+4180;REMOTE SENSOR MODULE (RSM)
+4181;ANALOG CONVERTER UNIT (ACU) – optional
+4182;CONFIGURATION MODULE, PFD PILOT
+4183;CONFIGURATION MODULE, PFD PRO
+4184;CONFIGURATION MODULE, PFD PRO DIGITAL
+4185;INSTALLATION KIT, EFD1000
+4186;INSTALLATION KIT, RSM
+4187;INSTALLATION KIT, ACU – optional
+4819;PTA light assembly (Red)
+4820;PTA light assembly (Green)
+1409;TCAS Directional Antenna
+1410;TCAS II - Traffic Alert and Collision Avoidance System Computer Unit
+2390;Audio Control
+2392;Digital Remote Electronics Unit
+2393;Cabin Interphone Unit
+2626;Continuous Flow Passenger Oxygen Mask
+2630;Stowage Container
+4567;Continuos Flow Passenger Oxygen Mask
+2115;Marker Beacon Receiver
+2116;Audio Isolation Amplifier
+4661;FORWARD / AFTWARD FACING SINGLE SEAT
+4662;ONE PLACE SIDE FACING DIVAN MODEL
+4810;Crew Seat 355/285 H150
+1723;Full-face Crew Oxigen Mask
+1724;Stowage Box Assembly
+2640;Crewmember Protective Breathing Equipment
+2641;Crewmember Protective Breathing Equipment Stowage Box
+3878;Passenger Mask Assembly
+3879;Smoke Goggles for Sweep-on 2000 Crew Oxygen Mask
+3880;Crew Mask, Sweep-on 2000 W/ Auto Dil. Valve Electrec Mic
+3881;Stowage Box Assy (Sweep-On 2000, Black, 6.0 Depth)
+4421;Passenger Oxygen Mask
+4776;PBE
+4779;Box, Mask Stowage (Sweep-On Fullface)
+4781;Stowage Box Assy w/ Auto Mask Signals (Full face mask)
+4782;Stowage Box Assy w/ Shutoff (Full face mask - Dark Blue) 
+4783;Sweep On 2000 Crew Mask
+4784;Smoke Goggles
+4801;Crew Mask Fullface
+4450;Crewmember Protective Breathing Equipment OXYCREW
+2117;Seat Assembly, Double Standard
+2119;Seat Assembly, Triple Standard
+2121;Seat Assembly, Quad. Center Standard
+2122;Seat Assembly, Double Front Row
+2124;Seat Assembly, Triple Front Row
+2126;Seat Assembly, Triple W/IAT
+2128;Seat Assembly, Triple Center Front Row
+2129;Seat Assembly, Quad. Center Front Row
+4694;Main Landing Gear Tire
+4695;Nose Landing Gear Tire
+4777;H38 x 13.0R18
+4276;Double Standard Seat Assembly
+4278;Double FWD Exit Row Seat Assembly
+4280;Double AFT Exit Seat Assembly
+4282;Double Last Row Seat Assembly
+4284;Double Last Row Seat Assembly, with Seat Blocking Device
+4285;Double Y-Belt Row Seat Assembly
+4289;Double Front Row Seat Assembly
+4291;LH F/C Single Seat Assembly, Front Row
+4292;LH F/C Single Seat Assembly
+4293;RH F/C Double Seat Assembly, Front Row
+4294;RH F/C Double Seat Assembly
+4295;RH F/C Double Seat Assembly, AFT
+4298;Double FWD Exit Seat Assembly
+4307;AFT Attendant Seat (FWD Facing)
+4311;RH F/C Double Seat, Front Row
+4312;RH F/C Double Seat
+4313;RH F/C Double Seat, Last Row
+4344;Double Attendant Seat, AFT Facing
+4345;Double Standard Seat Assembly, Y-Belt, Sliding Tables
+4347;Double Standard Seat Assembly, Y-Belt
+4350;Double Standard Seat Assembly, Sliding Tables
+4354;AFT Attendant Seat (AFT Facing)
+4356;Standard Bottom Cushion Assembly
+4363;LH F/C Front Row Single Seat Assembly
+4364;LH F/C Standard Single Seat Assembly
+4365;LH F/C Last Row Single Seat Assembly
+4366;RH F/C Front Row Double Seat Assembly
+4367;RH F/C Standard Double Seat Assembly
+4368;RH F/C Last Row Double Seat Assembly
+4375;LH F/C Single  Seat Assembly
+4376;RH F/C Double  Seat Assembly
+4416;Double  Attendant Seat, AFT Facing
+4419;Fwd Attendant Seat (Aft Facing)
+4457;Side Mounted Attendant Seat (Aft Facing)
+4814;Assentos de passageiros
+2919;Passenger Seat
+2921;Bottom Cushion Assembly
+2925;Exit Bottom Cushion Assembly
+2928;Double, Exit Row Seat Assembly - Gray
+2929;Double, Exit Row Seat Assembly - Blue
+2930;Double Seat Standard
+2931;Double Seat (Sliding Table)
+2932;Double Seat Exit Row, Short Armrest
+2933;Double Seat Last Row (No Food Table)
+2936;Double Standard  Seat
+2937;Double Standard Seat
+2938;Double Exit Row Seat
+2939;Double Last Row Seat
+2951;Double Seat, Standard
+2952;Double Seat, Sliding Food Table
+2953;Double Seat, Exit Row, Short Armrest, 'Y' Belt
+2954;Double Seat, Last Row, No Food Tray
+2955;Single, Exit Row Seat Assembly - Gray
+2956;Single, Exit Row Seat Assembly - Blue
+2957;Single Seat Standard
+2958;Single Seat Standard (Sliding Table)
+2959;Single Seat Exit Row, Short Armrest
+2960;Single Seat Last Row (No Food Table)
+2963;Single Standard Seat
+2965;Single Exit Row Seat
+2966;Single Last Row Seat
+2974;Single Front Row Seat Assembly
+2978;Single Seat, Standard
+2979;Single Seat, Sliding Food Table
+2980;Single Seat, Exit Row, Short Armrest, 'Y' Belt
+2981;Single Seat, Last Row, No Food Tray
+2982;Double Seat Front Row
+2983;Double Front Row
+2984;Double Front Row Seat
+2986;Double Seat, Front Row
+2987;Single Seat Front Row
+2988;Single Front Row Seat
+2990;Single Seat, Front Row
+2991;Observer Seat
+2992;Flight Attendant Seat
+2994;LH T/C Double Standard Seat Assembly
+2995;RH T/C Double Standard Seat Assembly
+2996;LH T/C Double AFT Row Seat Assembly
+2997;RH T/C Double AFT Row Seat Assembly 
+3009;Fwd Flight Attendant Seat
+3010;Flight Attendant Seat (AFT Facing) 
+3015;Flight Attendant Seat (AFT Facing)
+3029;Aft Flight Attendant Seat
+3031;AFT Attendant Seat (Forward Facing)
+3035;FWD Attendant Seat (FWD Facing)
+3037;Forward Flight Attendant Seat
+3049;Flotation Seat Bottom Cushion Assembly
+3051;Flotation Seat Bottom Cushion Assemby
+3057;Double, Seat Assembly
+3061;Double, Standard Seat Assembly
+3065;Double, Standard Seat
+3071;Double, Passenger Seat
+3073;Double Passenger Seat
+3079;Double Seat, Standard (No Food Tray)
+3081;Double Standard, Seat Assembly
+3083;Double FWD Exit, Seat Assembly
+3085;Double Exit, Seat Assembly
+3087;Double Last Row, Seat Assembly
+3101;Double Exit Row Seat Assembly
+3107;Double, Standard Seat, Last Row
+3115;Double, Last Row Seat Assembly
+3117;Fwd. Exit Row Double Seat
+3119;Aft Exit Row Double Seat
+3133;Double, Front Row Seat
+3137;Double, Front Row Seat Assembly
+3139;Double Seat, Front Row (LH)
+3144;Front Row Double Passenger Seat
+3152;Double Front Row, Seat Assembly
+3172;LH T/C Double Front Row Seat
+3173;RH T/C Double Front Row Seat
+3175;L/H Single Business Class Seat
+3176;R/H Single Business Class Seat
+3177;R/H Single Exit Row Seat
+3184;Single Seat Assembly
+3186;LH F/C Single Seat Assembly (FWD)
+3187;LH F/C Single Seat Assembly (AFT)
+3189;LH F/C Single Seat
+3190;LH F/C Single Seat, AFT
+3192;Single Seat Assembly 'First Class'
+3193;Double Seat Assembly
+3195;RH F/C Double Seat Assembly (FWD)
+3196;RH F/C Double Seat Assembly (AFT)
+3200;Double Seat Assembly 'First Class'
+3201;Forward Facing Seat Assembly
+3230;Seat Assembly
+3234;Side Mounted Attendant Seat, AFT Facing
+3237;FWD Attendand Seat (AFT Facing)
+3238;AFT Attendand Seat (AFT Facing)
+3257;Double Aft Row Seat
+3261;Double FWD Exit Row Seat
+3277;Double Exit Seat Assembly
+3323;Double Standard Seat, Sliding Food Tray
+3324;Double Exit Row Seat, Short Armrest
+3325;Double Last Row Seat, No Food Tray
+3327;Single Standard Seat, Sliding Food Tray
+3328;Single Exit Row Seat, Short Armrest
+3329;Single Standard Seat, No Food Tray
+3349;Double Standard
+3351;Double Last Row 
+3370;Double Sliding Food Tray Seat Assembly
+3376;Single Standard Seat Assembly
+3380;Single Sliding Food Tray Seat Assembly
+3382;Single Last Row Seat Assembly
+3384;Single Exit Row Seat Assembly
+3467;Double Front  Row Seat Assembly
+3472;LH F/C Single Seat  Assembly
+3473;RH F/C Double Seat  Assembly
+3475;Double, Sliding Food Tray Seat Assembly
+3476;Double, Exit Row Seat Assembly
+3478;Single, Standard Seat Assembly
+3479;Single, Sliding Food Tray Seat Assembly
+3480;Single, Last Row Seat Assembly
+3481;Single, Exit Row Seat Assembly
+3483;Single, Front Row Seat Assembly
+3489;Double, FWD Exit Seat Assembly
+3491;Double, AFT Exit Seat Assembly
+3500;FWD Attendant  Seat (AFT Facing)
+3502;Side Mounted Attendant  Seat (AFT Facing)
+3505;Double FWD Exit Seat  Assembly
+3507;Double AFT Exit Seat  Assembly
+3509;Double Last Row Seat  Assembly
+3511;Double Front  Row Seat  Assembly
+3523;Standart Bottom Cushion Assembly
+3531;Double Attendant  Seat, AFT Facing
+3570;Double Y-Belt  Seat  Assembly
+3572;Double Y-Belt, Sliding Foodtray Seat  Assembly
+3584;Side Mounted Attendant Seat , AFT Facing
+3586;Double Standard 
+3590;Double Exit Row 
+3592;Double FWD Exit Row
+3594;Double Front  Row
+3627;Double Standard Seat Assembly with Headrests
+3708;LH F/C Single Seat Assembly, AFT
+3757;LH F/C Single Seat Assembly, FWD
+3759;RH F/C Double Seat Assembly, FWD
+3900;Double Last Row
+3902;Double Exit Row
+3953;Sinlge Exit Seat Assembly
+3969;Standard  Bottom Cushion Assembly
+3986;Double, FWD Exit Row Seat Assembly
+3989;Single, FWD Exit Row Seat Assembly
+4011;Double Attendant Seat. AFT Facing
+4012;Doule Standard Seat Assembly
+4082;Double FWD Exit Row 
+4115;Double, Standard Seat Assembly Sliding Tray
+4120;Single, Standard Seat Assembly, Sliding Tray
+4188;Double Standard Seat Assembly (Y-belt & sliding tray)
+4190;Double Standard Seat Assembly (Y-belt & fixed tray)
+4192;Double Front Row Seat Assembly (Sliding Tray)
+4210;Exit Row Bottom Cushion Assembly
+4233;Standard Bottom Cushion Assembly, Standard
+4234;Standard Bottom Cushion Assembly, Thick
+4238;LH F/C Single Last Row Seat Assembly
+4239;RH F/C Double Last Row Seat Assembly
+4242;Double Forward Exit Row Seat Assemby
+4243;Double Exit Row Assembly
+1725;Primus Epic GPS Receiver Assembly
+4461;Emergency Locator Transmitter ELT 96-( )STD
+4462;ELT96 accessory
+2141;Selcal Decoder
+4451;Fuel Drain Valves
+1798;Audio Control Amplifier
+1799;Microphone Amplifier
+1800;Audio Selector Panel
+2631;Aural Warning Generator
+3806;L/H Basic Seat
+3807;R/H Basic Seat
+3808;L/H Seat (BT)
+3809;R/H Seat (BT)
+3810;L/H Seat (FT)
+3811;R/H Seat (FT)
+3812;L/H Seat (FT, BT)
+3813;R/H Seat (FT, BT)
+3814;LH FWD Facing
+3821;RH FWD Facing
+3828;LH AFT Facing
+3835;RH AFT Facing
+4100;Executive Single Cabin Seat
+4102;Executive Double Cabin Seat
+4131;L/H Forward Facing
+4132;R/H Forward Facing
+4133;L/H Aft Facing
+4134;R/H Aft Facing
+4162;L/H Side Facing Divan Module, 25.0'
+4163;R/H Side Facing Divan Module, 25.0'
+2396;VOR/LOC Antenna Balanced Loop
+2397;ELT Antenna
+2398;Radio Altimeter Antenna
+2497;Aircraft Tire 24x7.25-12 12PR
+2498;Aircraft Tire 18x5.5 8PR
+2499;Aircraft Tire 19.5x6.75-8 8PR
+2500;Aircraft Tire 30x9.5-14 16PR
+2501;Aircraft Tire H30x9.5-16 16PR
+2502;Aircraft Tire H38x13.0-18 18PR
+2503;Aircraft Tire 24x7.7 12PR
+2721;Aircraft Tire 24x7.7 16PR
+2722;Aircraft Tire H41x16.0-20 22PR
+3716;Life Raft
+4112;Life Preserver (Infant)
+4504;LIFE PRESERVER SERIES
+4593;XF-35 LIFE PRESERVERS
+2874;Mangueira - (Sistema de Óleo e Combustível do Motor)
+2875;Mangueira - (Sistema Hidráulico)
+4815;Single LH FWD Facing Seat
+4816;Single RH FWD Facing Seat
+4817;Single LH AFT Facing Seat
+4818;Single RH AFT Facing Seat
+4858;First Class Single Passenger Seat
+4859;First Class Double Passenger Seat
+4860;Upholstered Bottom Cushion Assembly
+2644;Crewmember Protective Breathing Equipment Stowage Bracket
+3616;Crewmember Protective Breathing Equipment (PBE)
+1726;Continuous Fire Detection Elements
+1727;IFR GNS 530 Shipping Level
+1728;IFR GNS 530 Unit Level
+1729;IFR GPS 500 Shipping Level
+1730;IFR GPS 500 Unit Level
+1731;IFR GNS 430 Shipping Level
+1732;IFR GNS 430 Unit Level
+1733;IFR GNC 420 Shipping Level
+1734;IFR GNC 420 Unit Level
+1735;IFR GPS 400 Shipping Level
+1736;IFR GPS 400 Unit Level
+1737;VFR GNC 250XL Shipping Level
+1738;VFR GNC 250XL Unit Level
+1739;Audio Panel GMA 340 Shipping Level
+1740;Audio Panel GMA 340 Unit Level
+1741;GTX 327 Shipping Level
+1742;GTX 327 Unit Level
+1743;GTX 327A Shipping Level
+1744;GTX 327A Unit Level
+1745;GAD 42  Shipping Level
+1746;GAD 42 Unit Level
+3842;Garmin Flight Management System (FMS) Controller
+3848;Garmin Air Data Computer
+3852;Garmin Engine Airframe Unit
+3854;Garmin Integrated Avionics
+3856;Garmin Audio Panel
+3858;Garmin Automatic Flight Control System (AFCS) Mode Controller
+3861;Garmin Magnetometer
+3863;AHRS (Attitude and Heading Reference System)
+3865;Garmin Servo Actuator
+3867;Garmin Data Concentrator Unit
+3869;Garmin Servo Gearbox
+3871;Garmin Mode S Transponder
+3873;Garmin Mode S Transponder Dual
+3875;Garmin Weather Radar
+3918;Garmin Display Control Unit
+3994;Garmin Autopilot Servo Actuator
+3996;Garmin Autopilot Trim Adapter
+3998;Garmin Autopilot Servo Mount
+4043;Garmin Primary Fligh Display/Multi-Function Display - Shipping Level
+4045;Garmin Primary Fligh Display/Multi-Function Display - Unit Level
+4166;Aircraft Audio and Iridium Data Link System
+4169;Aircraft Audio and Data Link System
+4172;Autopilot Servo Gear Box
+4200;Garmin Primary Fligh Display/Multi-Function Display - Unit Level 
+4201;Garmin Primary Fligh Display/Multi-Function Display - Software
+4206;Garmin Primary Fligh Display/Multi-Function Display - Superset
+4216;Directional Array Antenna - Shipping Level
+4217;Directional Array Antenna - Unit Level
+4218;Directional Array Antenna - Superset
+4308;Aircraft Audio Iridium Data Link System
+4315;GDU 620 (G600) - Garmin PFD/MFD - Shipping Level
+4317;GDU 620 (G600) - Garmin PFD/MFD - Unit Level
+4318;GDU 620 (G600) - Garmin PFD/MFD - Superset
+4319;GDU 620 (G600) - Garmin PFD/MFD - Software
+4320;GDU 620 (G500) - Garmin PFD/MFD - Shipping Level
+4321;GDU 620 (G500) - Garmin PFD/MFD - Unit Level
+4322;GDU 620 (G500) - Gaimin PFD/MFD - Software
+4485;GDU 1240A - GARMIN DISPLAY CONTROL UNIT - SHIPPING LEVEL
+4486;GDU 1240A - GARMIN DISPLAY CONTROL UNIT - UNIT LEVEL
+4487;GDU 1240A - GARMIN DISPLAY CONTROL UNIT - SUPERSET
+4488;GDU 1240A - GARMIN DISPLAY CONTROL UNIT - SOFTWARE
+4495;GIA 63W - Shipping Level
+4496;GIA 63W - Unit Level
+4497;GIA 63W - Software
+4498;GIA 63H - Software
+4499;GIA 63H - Shipping Level
+4500;GIA 63H - Unit Level
+4505;GTS Processor - Shipping Level
+4506;GTS Processor - Unit Level
+4507;GTS Processor - Superset
+4508;GTS Processor - Software
+4509;GARMIN DISPLAY CONTROL UNIT - GDU 1400W - SHIPPING LEVEL
+4510;GARMIN DISPLAY CONTROL UNIT - GDU 1400W - UNIT LEVEL
+4511;GARMIN DISPLAY CONTROL UNIT - GDU 1400W - SOFTWARE
+4512;GARMIN DISPLAY CONTROL UNIT - GDU 1400W - SUPERSET
+4513;TCAS MODE S TRANSPONDER - GTX 3000 - SHIPPING LEVEL
+4514;TCAS MODE S TRANSPONDER - GTX 3000 - UNIT LEVEL
+4515;TCAS MODE S TRANSPONDER - GTX 3000 - SOFTWARE
+4516;TCAS MODE S TRANSPONDER - GTX 3000 - SUPERSET
+4517;DATA RADIO UNIT- GDR 66 - SHIPPING LEVEL
+4518;DATA RADIO UNIT- GDR 66 - UNIT LEVEL
+4519;DATA RADIO UNIT- GDR 66 - SOFTWARE
+4520;DATA RADIO UNIT- GDR 66 - SUPERSET
+4521;WEATHER RADAR - GWX 70 - SHIPPING LEVEL
+4522;WEATHER RADAR - GWX 70 - UNIT LEVEL
+4523;WEATHER RADAR - GWX 70 - SOFTWARE
+4524;WEATHER RADAR - GWX 70 - SUPERSET
+4539;GIA 63W - INTEGRATED AVIONICS UNIT - SHIPPING LEVEL
+4540;GIA 63W - INTEGRATED AVIONICS UNIT - UNIT LEVEL
+4541;GIA 63W - INTEGRATED AVIONICS UNIT - SUPERSET
+4544;N/A (excluir)
+4550;GAD 43 - GYRO ADAPTER - SHIPPING LEVEL
+4551;GAD 43 - GYRO ADAPTER - UNIT LEVEL
+4552;GAD 43 - GYRO ADAPTER - SUPERSET
+4553;GAD 43e- GYRO ADAPTER - SHIPPING LEVEL
+4554;GAD 43e - GYRO ADAPTER - UNIT LEVEL
+4555;GAD 43e - GYRO ADAPTER - SUPERSET
+4556;GAD 43 / 43e - GYRO ADAPTER - SOFTWARE
+4557;GMN-00683 - (GMA 36) MARKER AUDIO - SHIPPING LEVEL
+4558;GMN-00683 - (GMA 36) MARKER AUDIO - UNIT LEVEL
+4559;GMN-00683 - (GMA 36) MARKER AUDIO - SUPERSET
+4560;GMN-00683 - (GMA 36) MARKER AUDIO - SOFTWARE
+4561;GTC 570 - TOUCH SCREEN CONTROLLER - SHIPPING LEVEL
+4562;GTC 570 - TOUCH SCREEN CONTROLLER - UNIT LEVEL
+4563;GTC 570 - TOUCH SCREEN CONTROLLER - SUPERSET
+4564;GTC 570 - TOUCH SCREEN CONTROLLER - SOFTWARE
+4596;GMA 35 - Marker Audio - Shipping Level
+4597;GMA 35 - Marker Audio - Unit
+4598;GMA 35 - Marker Audio - Superset
+4599;GMA 35 - Marker Audio - Software
+4600;GMA 350 - Marker Audio - Shipping Level
+4601;GMA 350 - Marker Audio - Unit Level
+4602;GMA 350H - Marker Audio - Shipping Level
+4603;GMA 350H - Marker Audio - Unit Level
+4604;GMA 350/350H - Marker Audio - Superset
+4605;GMA 350/350H - Marker Audio - Software
+4606;GTN 650 - GPS/SBAS/NAV/COM - Shipping Level
+4609;GTN 650 - GPS/SBAS/NAV/COM - Unit Level
+4610;GTN 650 - GPS/SBAS/NAV/COM - Superset
+4611;GTN 650 - GPS/SBAS/NAV/COM - Software
+4612;GTN 635 - GPS/SBAS/NAV/COM - Shipping Level
+4613;GTN 635 - GPS/SBAS/NAV/COM - Unit Level
+4614;GTN 635 - GPS/SBAS/NAV/COM - Superset
+4615;GTN 635 - GPS/SBAS/NAV/COM - Software
+4616;GTN 625 - GPS/SBAS- Shipping Level
+4617;GTN 625 - GPS/SBAS- Unit Level
+4618;GTN 625 - GPS/SBAS- Superset
+4619;GTN 625 - GPS/SBAS- Software
+4620;GTN 750 - GPS/SBAS/NAV/COM - Shipping Level
+4623;GTN 750 - GPS/SBAS/NAV/COM - Unit Level
+4624;GTN 750 - GPS/SBAS/NAV/COM - Superset
+4625;GTN 750 - GPS/SBAS/NAV/COM - Software
+4626;GTN 725 - GPS/SBAS - Shipping Level
+4627;GTN 725 - GPS/SBAS - Unit Level
+4628;GTN 725 - GPS/SBAS - Superset
+4629;GTN 725 - GPS/SBAS - Software
+4630;GTX 33 - Shipping Level
+4631;GTX 33H - Shipping Level
+4632;GTX 33D - Shipping Level
+4633;GTX 33DH - Shipping Level
+4634;GTX 33/33H/33D/33DH - Unit Level
+4635;GTX 33 - Superset
+4636;GTX 33D - Superset
+4637;GTX 33 - Software
+4638;GTX 330 - Shipping Level
+4639;GTX 330D - Shipping Level
+4640;GTX 330/330D - Unit Level
+4641;GTX 330/330D - Software
+4642;GRA 5500 - Radar Altimeter - Shipping Level
+4643;GRA 5500 - Radar Altimeter - Unit Level
+4644;GRA 5500 - Radar Altimeter - Software
+4645;GRA 5500 - Radar Altimeter - Superset
+4682;GDU 1240A - GARMIN DISPLAY CONTROL UNIT - SOFTWARE
+4726;GDU 1400W - GARMIN MFD OR PFD - SOFTWARE
+4727;GDU 1400W - GARMIN MFD OR PDF - SUPERSET
+4728;GDU 1400W - GARMIN MFD OR PFD - UNIT LEVEL
+4729;GDU 1400W - GARMIN MFD OR PDF - SHIPPING LEVEL
+4730;GMN-00721(GTC 570) - Display with Touch Screen Controller _ Shipping Level
+4731;GMN-00721(GTC 570) - Display with Touch Screen Controller _ Unit Level
+4732;GMN-00721(GTC 570) - Display with Touch Screen Controller _ Superset
+4733;GMN-00721(GTC 570) - Display with Touch Screen Controller _ Software
+4762;GTX 325 (Shipping Level)
+4763;GTX 335 (Shipping Level)
+4764;GTX 335R (Shipping Level)
+4765;GTX 345 (Shipping Level)
+4766;GTX 345R (Shipping Level)
+4767;GTX 325 (Unit Level)
+4768;GTX 335 (Unit Level)
+4769;GTX 335R (Unit Level)
+4770;GTX 345 (Unit Level)
+4771;GTX 345R (Unit Level)
+4772;GTX 3x5 (Software)
+4862;GMN-01405
+4866;GMN-01410
+4870;GMN-01308
+4874;GMN-00816
+4878;GMN-00971
+4883;GMN-01423
+2402;Control Display Unit
+2403;Receiver Processor Unit
+2405;RPU Tray Assembly
+2406;Loran-C Antenna
+2407;VLF Antenna
+2408;VLF Preamplifier
+2409;H-Field Antenna
+2411;Loop Antenna Housing
+2412;VLF Antenna Coupler
+2413;VLF Antenna Coupler/Preamp
+2416;Data Transfer Unit
+2418;DTU Tray
+2469;Main Landing Gear Wheel Assembly
+2470;Main Landing Gear Brake Assembly
+2471;Nose Landing Gear Wheel Assembly
+2475;Main Landing Gear Wheel  Assembly
+2478;Nose Landing Gear Wheel  Assembly
+2638;Main Wheel
+4740;Freio do trem de pouso principal
+4741;Conjunto da roda do trem de pouso principal
+4742;Conjunto da roda do trem de pouso do nariz
+4799;Main Landing Gear Wheel Assembly 
+4808;Nose Landing Gear  Wheel Assembly
+2480;Attitude Indicator
+2482;Attitude Gyro
+2486;Transmitter/Receiver Computer
+4566;ONE PLACE FORWARD FACING SEAT
+2489;Evacuation Slide Assembly
+4821;Evacuation Systems
+4835;Evacuation System
+3911;Forward Facing, Track-Mounted Pilot/Copilot Seat
+4323;Goodrich Forward Facing Track-Mounted Pilot/Copilot Seat
+4482;Embraer Pilot Seat
+4483;Embraer Copilot Seat
+4657;FORWARD FACING, FLOOR MOUNTED OBSERVER SEAT
+2491;Brushless DC Generator
+2492;30 V Starter Generator
+1774;Aircraft Tire 18x4.4 10PR
+1775;Aircraft Tire 17.5x5.75-8 12PR
+1776;Aircraft Tire 18x4.4 12PR
+1777;Aircraft Tire 26x6.6 14PR
+1778;Aircraft Tire 25.75x6.75-14 14PR
+1780;Aircraft Tire H31x9.75-13 12PR
+1781;Aircraft Tire 31x9.75-14 12PR
+1782;Aircraft Tire 22x6.50-10 6PR
+1784;Aircraft Tire 6.50-8 8PR
+1785;Aircraft Tire 670x210-12 10PR
+1788;Aircraft Tire 16x4.4 6PR
+1789;Aircraft Tire 5.00-5 10PR
+1792;Aircraft Tire 6.50-10 8PR
+1793;Aircraft Tire 7.00-6 6PR
+1794;Aircraft Tire 8.00-4 4PR
+3666;Aircraft Tire  H38x13.0-18 18PR 225 MPH
+3667;Aircraft Tire  24x7.7   12PR 225 MPH
+3877;Aircraft Tire 19.5x6.75-8 10PR
+3896;Aircraft Tire 21x6.5-10 12PR
+3922;Aircraft Tire H25x8.0-12 16PR 210MPH
+3923;Aircraft Tire 15x6.0-6, 3410 LBS at 137 PSI, 210 MPH
+4377;Aircraft Tire
+4494;Aircraft Tire H 26.5x8.0-14 14 PR 210MPH
+4528;AircraftTire - 17.5x5.75-8 10PR 210 MPH
+4542;Aircraft Tire 21x6.5 12 PR
+4543;Aircraft Tire H30x9.5-16 16PR 225 MPH
+4700;Tubeless Aircraft Tire
+4701;Aircraft Tire (35x16.5-10 18PR 235MPH)
+4702;Aircraft Tire (H43x16.5-18 20PR 225MPH)
+4703;Aircraft Tire (35x16.5-10 18PR 225MPH)
+4891;H26.5x8.0R14
+4927;Pneu aeronáutico
+2025;GPWS/Windshear Computer
+2037;Auxiliary Power Unit System
+2039;Full Authority Digital Electronic Control
+2040;Electronic Starter Controller
+2041;Bleed Valve
+4744;Auxiliary Power Unit System Cat. 1
+4745;APU Outline
+4746;Eletronic Controller Outline
+4747;Boot Software Version 01.00.000
+4748;Aplication Software Version 01.00.000
+1413;20 Slot Chassis
+1414;PWR-200 Power Supply Module
+1415;GIO-200 Dual Generic I/O
+1416;CNT-100 Control I/O
+1417;FCM Flight Control Module
+1418;CIO-E01
+1419;16 Slot Chassis MAU 16U
+1420;NI-900 NIM LRM
+1424;AIO-F01 Fixed Wing AIOP
+1425;NIC-200 Dual NIC
+1426;EGP-100 EGPWM
+1427;DU-1080 Display Unit
+1429;DF-855 Line Replaceable Module
+1430;CC-800 Cursor Control
+1434;MRC-855A Modular Radio Cabinet
+1435;DBM-100 Database Module
+1436;DM-855 Distance Measuring Equipment
+1437;MC-850 Multipurpose Controller and Display Unit
+1442;TR-865B VHF Data Radio
+1443;MT-860 MINI Cabinet
+1444;GP-750 Guidance Panel
+1445;AV-900 Digital Audio Panel
+1448;XS-8XX Transponder
+1449;PRIMUS 440/660/880 Weather Radar
+1461;AMM-200 PSAMM
+1465;NV-875A
+1467;BC-900 Bus Coupler
+1468;AMM-100 Air Management Module
+1469;TR-865A VHF Data Radio
+1470;PRIMUS-440/660/880 Weather Radar
+1471;IM-950 Aircraft Personality Module
+1472;CMC Module
+2077;Field Loadable Primus Epic System
+1451;Inertial Reference Unit
+1452;Mounting Tray
+4848;Inertial Reference Unit HG2100BD( )
+4849;Field Loadable Op Program Software MH2217D( )
+4850;Field Loadable Magnetic Variation Table Op Prog Constants NH2219D( )
+4851;Attitude Heading Reference Unit HG2205AB( )
+4852;Mouting Tray WG2005AB( )
+1450;KT 73 Mode S Transponder
+1455;KMH 920 Multi-Hazard Awareness Unit
+1457;KTA 910 Traffic Alert and Collision Avoidance System I Unit
+1458;KCM 805 Configuration Module
+1459;KLN 94 GPS
+1462;KPA 1052 Power Amplifier
+1463;KRX 1053 Receiver/Exciter
+1464;KAC 1052 Antenna Coupler
+1473;KRA405B Radar Altimeter Receiver/Transmiter
+2251;KMD 540 MFD Base Unit (Black)
+2252;KMD 540 MFD Base Unit (Gray)
+2253;KMD 540 MFD Base Unit (5G)
+2257;Weather Radar Module
+2258;EGPWS Module
+2259;FIS Module
+2260;Traffic Module
+2261;Americas (206-00406-0113)
+2262;Pacific International (206-00406-0113)
+2263;Atlantic International (206-00406-0113)
+2265;MFD (W/O GPS)
+2266;MFD (With GPS)
+2267;Americas Data Card
+2268;Pacific Int. Data Card
+2269;Atlantic Int. Data Card
+2270;Install Kit
+4125;KTR 2280 MMDR
+4126;Installation Kit KTR 2280 MMDR
+4127;Installation Kit KA 44B Associated with KTR 2280 MMDR.
+1475;PRIMUS 800 Color Weather Radar
+1476;PRIMUS 450 Weather Radar
+1477;PRIMUS 650 Weather Radar
+1478;PRIMUS II RCZ 850 
+1479;PRIMUS 870 Weather Radar 
+1480;SI-225S Mach Airspeed Indicator
+1481;Mach Airspeed/Airspeed Indicator
+1482;Vertical Speed Indicator
+1483;FX-600 Thin Flux Valve Assy.
+1484;CS 412 Dual Remote Compensator
+1485;Flight Guidance Computer
+1487;Elevator Servo
+1488;ED 800 Electronic Display
+1489;GC 800 Flight Guidance Controller
+1491;CG 810 Guidance Controller Panel
+1492;Digital Air Data Computer
+1494;AH 600 AHRS Computer
+1496;Instrument Remote Control
+1498;Dual Instrument Remote Control
+1500;SG 811 Symbol Generator
+1501;SG 816 Symbol Generator
+1505;MG 611/811 Symbol Generator
+1506;MFD Symbol Generator
+1509;MG-816 Symbol Generator
+1510;MC 800 MFD Controller
+1512;DC 810 Display Controller
+1517;AL 801/VN 801 Control Display Unit
+1518;SB-201A Bracket
+1524;DU-870 Display Unit
+1534;Model Select Unit
+1542;Autopilot Controller
+1543;Autopilot Computer SP-200
+1544;Roll/Yaw/Pitch Servo
+1547;TAS Temp. Indicator
+1548;BA-141 Barometric Altitude Indicator
+1549;Vertical Navigation Controller
+1550;Gyrosyn Compass
+1551;Dual Remote Conpensator
+1552;ED-600 Electronic Display
+1553;Display Controller
+1554;SG-605 Symbol Generator
+1555;MC-605 Symbol Generator
+1556;MC-800 Multifunction Display Controller
+1558;RZ-220 Roll Rate Monitor
+1559;Flight Director Computer
+1560;RG-204 Rate Gyroscope
+1561;VG-14A Vertical Gyro
+1562;Normal Accelerometer
+1563;MS-205 Mode Selector
+1564;RD-450 Horiz. Sit. Indicator
+1565;VNAV Control Display Unit
+1566;Navigation Computer
+1567;CD-800 Control Display Unit
+1568;AZ-800 Digital Air Data Computer
+1569;Air Data Computer
+1570;Air Data Computer (TAS/VLF)
+1571;SG-605 EFIS Symbol Generator
+1572;MG-605 MFD Symbol Generator
+1573;AH-600 Strapdown AHRU
+1576;RD-550A Horizontal Situation Indicator
+1577;AD-550C Attitude Director Indicator
+1579;AC-801 AHRS Controller
+1580;C14A Directional Gyro
+1581;AZ-810 Air Data Computer
+1584;FZ-800 Flight Guidance Computer
+1587;GC-801 Flight Guidance Controller
+1588;SM-300 Servo and Bracket
+1590;SM-710 Linear Actuator
+1593;RT-300 Radio Altimeter Receiver/Tranmitter
+1594;RT-300 Radio Altimeter Receiver/Transmitter
+1595;RI-306 Instrument Remote Controller
+1596;TM-400 Trim Servo and Bracket
+1597;ID-800 Advisory Display
+1598;ID-802 Advisory Display
+1599;ED-800 Electronic Display
+1600;SG-811 Symbol Generator
+1601;DC-810 Display Controller
+1602;CS-313 Remote Compensator
+1603;DG-234 Directional Gyro
+1604;CL-201 Compass Coupler
+1605;CC-210 Compass Control Unit
+1607;RT-300 Radio Altimeter
+1609;GC-810 Flight Guidance Controller
+1610;Lightning Processor LP-850
+1611;AT-855 Lightning Sensor Antenna
+1613;Laser Inrtial Reference Unit
+1614;Global Positioning System Sensor Unit
+1615;TCAS Computer Unit
+1616;Mode S Transponder
+1618;VSI/TRA Display
+1619;CS-212 Compensator
+1620;GH-14 Gyro Horizon
+1622;PC-700 Autopilot Controller
+1623;MS-700 Mode Selector
+1624;AZ-649 Air Data Sensor
+1625;AL-300 Air Data Command Display
+1626;FZ-710 Digital Flight Control Computer
+1627;SM-512 Dual Pitch Control Rod Assembly
+1628;RZ-710 Servo Monitor
+1629;AG-710 Vertical Accelerometer
+1630;PC-400 Autopilot Controller
+1631;IC-500 Integrated Computer
+1632;AZ-429 Air Data Sensor
+1633;DC-550 Display Controller
+1634;RI-553 Instrument Controller
+1635;MS-560 Mode Selector
+1636;SP-200 Autopilot Computer
+1637;SM-200A Servo Drive
+1639;PC-600 Autopilot Controller
+1642;RD-550 Horizontal Situation Indicator
+1643;AD-550A Attitude Director Indicator
+1645;RA-315 Radio Altimeter Indicator
+1647;GC-810 Guidance Controler
+1649;SG-816 Symbol Generator
+1652;AZ-810 Digital Air Data Computer
+1653;AH-600 Air Data Computer
+1654;AZ-850 Micro Air Data Computer
+1656;BL-870 Bezel
+1657;BL-871
+1658;MC-800 MFD Controller
+1659;RM-850 Radio Management Unit
+1660;AV-850A  Audio Control Unit
+1661;CD-850 Clearance Delivery Unit
+1662;DI-851 DME Indicator
+1663;RZN-850 Integrated Radio Nav Unit
+1664;RZN-850B Integrated Radio Nav Unit
+1665;RCZ-851E Comm Unit
+1666;RCZ-851F Comm Unit
+1667;RCZ-851G Comm Unit
+1670;RI-553 Remote Instrument Controller
+1671;DC-550 EFIS Display Controller
+1672;IC-600 Display Guidance Computer
+1676;FX-220 Flux Valve
+1677;RCZ-833
+1678;RCZ-833B
+1680;RCZ-833C
+1681;RCZ-833D
+1682;RCZ-833E
+1684;RCZ-833G
+1686;RCZ-833H
+1688;RCZ-851H
+1689;RCZ-853
+1690;RCZ-854E
+1692;RCZ-854G
+1694;RCZ-854H
+1696;RM-850
+1704;RM-855
+1714;CD-850
+4525;NZ 2010 FMS NAVIGATION COMPUTER
+4568;INTEGRATED COMMUNICATIONS UNIT - RCZ-833M
+4570;Auxiliary Power Unit (APU) - Gas Turbine
+4571;Auxiliary Power Unit (APU) - Electronic Control Unit Software Version MSJ-00.05
+4822;Field Loadable Software
+4823;1  slot MAU
+4824;Configuration Module MAU, IM-950
+4825;Custom CSIO
+4826;Next Generation Dual Generic IO, GIO-400
+4827;ADF Antena, AT-860
+4828;NG Power Supply, PWR-210
+4829;Bus Coupler, BC-900
+4830;NG Enhanced ASCB-D Dual NIC with Compact Flash NIC-221
+4831;MAU 16-20 Slot
+4832;NV-879
+4833;Network Interface Model, NI-901
+4834;Advanced Grafics Module, AGM 300
+4837;Next Generation Control IO, CNT-200
+4931;MM7027704-306
+1453;Cockpit Control Panel
+1454;Digital Voice/Data Recorder
+1460;Cockpit Area Microphone
+1747;Flotation Vest Assembly
+2794;Adult-Child Life Preserver
+2096;Pilot Seat
+2097;Co-Pilot Seat
+3714;Emergency Locator Transmitter 
+3715;Mounting Bracket associated with 406 AF-COMPACT
+3860;Mounting Bracket associated with 406 AF, 406 AF-H, 406 AP, 406 AP-H
+4431;INTEGRA FAMILY
+2144;Static Inverter
+4674;DC TO AC STATIC INVERTER
+2550;Smoke Detector
+2859;Portable Fire Extiguisher - Liquid Type
+4838;Fire Detection TLSE for the Left FWD Thrust Reverser Door
+4839;Fire Detection TLSE for the Left AFT Thrust Reverser Door
+4840;Fire Detection TLSE for the Right FWD Thrust Reverser Door
+4841;Fire Detection TLSE for the Right AFT Thrust Reverser Door
+4842;Fire Detection TLSE for the Pylon (Firewall)
+4856;APD Fire Detector for the APU
+4857;APD Fire Detector for Main Landing Gear Bay
+4904;Portable Fire Extinguisher
+2150;Encoding Pneumatic Altimeter
+2145;Pressure Transducer
+2164;Business Class Seat
+4845;Solid State Control Unit
+4846;Cockpit Area Microphone for Solid State Cockpit Voice Recorder
+4847;Flight Data, Cockpit Voice and Combination Voice and Data Recorder
+2148;Stormscope Series II Weather Mapping System
+2590;Servo Actuator
+4439;ESI-1000
+4445;ESI-2000
+2152;Digital Flight Data Recorder
+2154;Cockpit Voice Recorder
+2155;Flight Data Recorder
+4174;Landing Gear Brake Assembly
+4175;Main Wheel Assembly
+4459;Landing Gear Nose Wheel 
+4480;Main Wheel Brake Assembly
+4001;Wheel Assembly
+4198;Tri-Metallic Brake Assembly
+4660;AIRCRAFT BRAKE CARBON SKYDROL ASSEMBLY
+4929;Forged Aluminum Main Wheel Assembly
+1749;Fire Overhead Detector
+2789;Cargo Smoke Detector
+4901;Fire Detector
+2462;Aircraft Tire 22x8.0 10/12PR
+3319;Aircraft Tire H41x16.0R20/22PR/225MPH
+3320;Aircraft Tire 24x7.7R10/16PR/225MPH
+4136;Main Landing Gear Tyre H38x13.0R18 20PR 225MPH
+4749;MAIN LANDING GEAR TYRE
+4750;NOSE LANDING GEAR TYRE
+1751;Transponder
+4546;STANDBY ATTITUDE MODULE
+4454;Mechanical Recording Tachometer
+1753;Bracket
+2163;NAV/COM
+4663;LCR-100 ATTITUDE HEADING REFERENCE SYSTEM
+2104;Restraint System
+2167;Fuel Quantity Gauging System
+2168;Tank Unit
+2178;Tank Unit Compensator
+2179;Low Level Sensor
+2180;In-Tank Harness
+2181;Refuel/Defuel Panel
+2182;Fuel Conditioning Unit
+2636;Tank Harness
+2637;Tank Unit with Compensator
+4664;FUEL PROBE
+4665;FUEL PROBE/COMPENSATOR
+4666;LEVEL SENSOR
+4667;WING IN-TANK HARNESS
+4668;TEMPERATURE SENSOR
+4670;REPEATER INDICATOR
+4699;Fuel Conditioning Unit (FCU)
+4738;APU APS2300
+4773;APU System
+4422;SINGLE CELL ADULT/CHILD LIFE VEST
+4423;TWIN CELL ADULT/CHILD LIFE VEST
+4424;UNIVERSAL SINGLE CELL LIFE VEST
+2787;Life Vest Type 102 Series
+2184;Marker Beacon Antenna
+2185;Mount
+2187;Automatic Antenna Coupler
+2191;Flight Director - Attitude Indicator
+2192;Flight Director Indicator
+2193;Attitude Heading Computer
+2194;Radio Altitude Indicator
+2195;CRT Display
+2196;Radio Altimeter Receiver-Transmitter
+2197;Weather Radar Antenna
+2198;ADF Antenna
+2201;Autopilot Control Panel
+2202;Control Adapter
+2203;Transponder Control Adapter
+2204;Control and Compensation Unit
+2205;Course Heading Panel
+2206;VHF Control Head
+2207;HF Control Panel
+2209;ADF Control Head
+2210;Transponder Control
+2211;Display Control Panel
+2213;EFIS Display
+2214;Digital Radio Altitude Indicator
+2216;Flight Control Panel
+2217;Flux Detector Unit
+2218;Course Indicator
+2219;DME  Indicator
+2221;Power Amplifier
+2222;Stand By RMI
+2224;Receiver /Transmitter/Antenna
+2226;Receiver/Transmitter/Antenna
+2230;Servo Mount
+2231;Primary Servo
+2232;HF Transceiver
+2237;VHF Comm Tranceiver
+2271;VHF Nav Receiver
+2272;Weather Radar Control Panel
+2278;Weather Radar Receiver -Trasmitter
+2279;VNI-80A Vertical Nav. Indicator
+2280;Vertical Nav. Indicator
+2347;Data Entry Unit
+2348;Computer Rec. Unit
+2352;Auxiliary Equipment Unit
+2356;Antenna, H-Field (b)
+2357;Antenna Coupler
+2358;Antenna Unit
+2359;Antenna, H-Field (c)
+2360;Antenna, E-Field
+2361;Antenna Coupler,  ADF
+2362;Antenna Coupler, E-Field
+2363;Display Processor Unit
+2364;Multifunction Processor Unit
+2383;DU-1000A
+4572;AIRCRAFT PERSONALITY MODULE APM-5000
+4573;DIGITAL SWITCHING MODULE - DSM-5110
+4574;EXTERNAL COMPENSATION UNIT ECU-3000 (-205 STATUS)
+4575;DATA CONCENTRATOPR MODULE DCM-6000
+4576;COMMON COMPUTING MODULE CCM-5110
+4577;COVER AND ENVIRONMENTAL MODULE CEM-6000
+4578;ATTITUDE HEADING COMPUTER AHC-3000
+4579;POWER PRODUCING MODULE PPM-6000 (-002 STATUS)
+4580;TERRAIN AWARENESS AND WARNING SYSTEM MODULE, HIGH RESOLUTION - TAWS
+4581;SYNTHETIC VISION MODULE SVM-6110
+4583;COVER AND ENVIRONMENTAL MODULE CEM-6210
+4584;COMMON COMPUTING MODULE CCM-6210
+4585;INTEGRATED PROCESSING CABINET IPC-6230
+4586;INTEGRATED PROCESSING CABINET IPC-6210
+4587;POWER ENVIRONMENTAL MODULE PEM - 6210
+4594;COVER AND ENVIRONMENTAL MODULE CEM - 6230
+4652;DCU MODULE CABINET - DMC-6000
+4653;INPUT/OUTPUT MODULE - IOM-6500
+4654;FLIGHT CONTROL PANEL - FCP - 5070
+4655;INPUT / OUTPUT MODULE IOM-6000
+4673;INTEGRATED MODULAR AVIONICS TABLE - IMAT-6000 
+4888;DCU Module Cabinet
+4889;Input/Output Module
+4894;IMAT-6000 Integrated Modular Avionics Table
+4900;AFD-6520 Adaptative Flight Display 
+4932;Onboard Maintenance System Table
+4933;Flight Display System Application
+4934;Integrated Modular Avionics Table
+1773;Smart Probe
+2149;Angle of Attack Sensor
+3912;Electrically Heated Pitot Static Tube
+4214;Air Data/Stall Protection Computer
+4671;2015TB SMART PROBE
+4672;2015TC SMART PROBE
+2467;Stall Warning Computer System
+3920;Stall Warning and Protection Computer
+4710;Restraint Model 1-07-() - 5-Point Automatic harness restraint system incl. strap
+4711;Restraint Model 1-08-() - 4-Point Automatic harness restraint system
+4712;Restraint Model 1-09-() - 4-Point Automatic harness restraint system incl. strap
+4713;Restraint Model 1-10-() - 3-Point Automatic harness restraint system
+2508;VHF Antenna
+2510;L-Band Blade Antenna
+2513;Glide Slope Antenna
+1412;Integrated Standby Indicator System
+2522;VHF-251A
+2524;Airman 750
+2525;66T Dynamic Microphone
+1763;Electronic Standby Instrument
+4778;Inertial Reference System - IRS-1
+2526;GPS Navigation Display Unit
+2528;GPS Navigation System
+2529;VHF COMM Antenna
+2531;NAV Antenna, Balance Loop
+2533;Ribbon Glide Slope Antenna
+2534;DME/Transponder Antenna
+4548;MD835 - EMERGENCY POWER SYSTEM
+2545;Flight Management System
+2549;DTU-100 Data Transfer Unit
+1755;Apollo Audio Panel
+1756;Multifunction Display
+1757;GPS Navigators Series
+1758;GPS
+4843;SmartProbe Air Data Computer with Multi-Function Probe
+4854;Ducted Smoke Detector
+4855;Cabin Smoke Detector
+4898;2015TMA Smartprobe Airdata computer 
+4899;2015TMB Smartprobe Airdata computer
+4906;Goodrich Evacuation System
+3559;Business Class Passenger Seat
+3560;First  Class Passenger Seat
+4656;CREW OXYGEN MASK REGULATOR - MC 40
+4917;Forward Facing Passenger Seat and bottom cushion assembly
+4919;Forward Facing Passenger Seat and bottom cushion assembly 
+4920;Aft Facing Attendant Seat
+4921;Fwd Facing Attendant Seat
+4926;Forward Facing Passenger Seat
