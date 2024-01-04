@@ -1,4 +1,4 @@
-﻿id_modal ;descricao_modal
+﻿cod_modal ;descricao
 1;Terrestre
-2;Aereo
-3;Maritimo
+2;Aéreo
+3;Marítimo
